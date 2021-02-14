@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "veryvegi-ckfl",
+  "private_key_id": "cadb74ace5d1616bcdf36517f0abac70b0f5c1f2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCeM0DQ36rcsDJl\n372XAJHUJHzbYFjXAGGOgyrnBIi3OrcZt6kvYCI6yWMvpfLbsrEIAfCdRbQBlA1K\nVDt46bQoAwV2SiXL79xAYn70nCHRwaUgIGgahBdwe2f4bqdi4vVQ7DZ4Jlql284T\nnASV+TbJFlh/nGTFGTfz3wfZA4/MUJ/sdi93KGiWh3gt3l7XQJhRVTjEsI363PHV\n3mZYtH700l3M32Pui8TzS0Luhu2WVPktM62zLh4FleID/Ti4QmNmFjjYFmXatDUN\nT2kWanBK8Y4qejpEk5xKZYodISi/hZFOZ19yugz9A++lo6mPT1wfvGvmledYaF34\nEAHDvqpnAgMBAAECggEAIVOOvfHAXslHdKqTl/HoxpYBL322eWR9KLZ9HTmZS3A1\nDlfgbjiEPXobSPheluWn4ZX3CEqcxxBXVGc2OByTdTJdvjOUjsey0GVvdTxG65ct\nn/zzsVJOVcXJe05kOLKzFx8Lwnfh9Lq/SOY/GRDs96ObdRaPK+5KGTfMwWy8qD+n\nAwNtyn9Pc+DQiyrghRQXpofDZ0DI5EgdUMfoGXtwqdbl/tyuSXB8TfqaJvUcjUps\n7JNhehJGC0JI8rvC62nqSVhjOiIIqH8615+Q9ZjIDL/G1G0XxKvrrk3vi2xnCrNd\nqSqDTIC9ey1QEtM4LPLZEe51T1dGLZy/QdZl3GaqEQKBgQDNFuLhYfL7/bcU6pPf\nPt+JQ9myT98owK1XA0p3LEP+TPDUBNnc4u6NASiz5RD4gumNJRLh31gArKwblccQ\nPNAili24gscakclljfMWtyRdqYukYG9pce+5pD1GQlFnkaJrOf5ozanxAPlMR7wm\n9LLl71/fPFeTqQMSn2elMd/k/QKBgQDFeKGkYbt9E+6tuwNf41q0JR3i0SgsIhlS\n70JeCHAqhRpkoFPnk4R8xIDTw6SLrAHyhYuG2+N2lVGvMjs+ySli1UXom4al1lzc\nM7LxOWCYZ+tHpf8q1VDrP6kaLsYRE+IHjHO1pwcZDmvQyzU48wprWHWiGqNksNyn\n5oPzDBf8MwKBgQCEtDheKej2EPd0O00veRlfUl38uR3m2rXOxbxbXHMqi1KRfgoS\nmWxOJN/Xd3MBuoOw5rpPGRtyZEiBGOtToGX020P+TfDTSl4MrksK+bo4OMq4tAWj\nLyw07QcQ/Tx7TYrQ4xexbNJ3tW+aYhhnBJL1oWxhoEPysbvhQu/nvlvnaQKBgGXx\nbbk3/xuGM7yahBZ3f7bqRnB2u7905w/qlp+GyakZx9NU9Zviiw4CP+OS55p3dRXn\nnW1EjTwFwAKq8uzp2qS8J3f6+lsYvB2tzt47WcO0OkFlz8IkF78qwTjUFspwMkrl\nVkLb9I0Z5c0HavV4etOJ+khyahGsQG2pUksh3iwDAoGBAJj0pFDdFdyxTmJLS2ak\nYT72EDuSjsZ4EDx6A90Q2mdIVHm+zUom/3VgBhVhJUuASza/ptod2enHN3vIJub0\nlKPMkECNWh0/6fzrdh9/dF4ZgOhexYqabjWV0g/w0sbdND/Rxrolwa/2F8Z7KZ0i\nrAq5e/G6vSGf04h5vpeYWTCy\n-----END PRIVATE KEY-----\n",
+  "client_email": "vevechatbot@veryvegi-ckfl.iam.gserviceaccount.com",
+  "client_id": "104524900633374918505",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vevechatbot%40veryvegi-ckfl.iam.gserviceaccount.com"
+}
